@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "RiskManager",
             url: "https://github.com/finbox-in/dc-ios-sdk/releases/download/v0.3.11/RiskManager-0.3.11.xcframework.zip",
-            checksum: "9e8764a74fe7df5b47dc6e7e11155e2b379d4ceb408f38ae88837f46461e0989"
+            checksum: "dda7b833c7aad176e8cb5d0205034e32c50f297a6ec16ad6bd603fc9864a94d4"
         ),
     ]
 )
