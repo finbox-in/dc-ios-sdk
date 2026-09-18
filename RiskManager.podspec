@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
 
   spec.source = {
     :http => "https://github.com/finbox-in/dc-ios-sdk/releases/download/v0.3.11/RiskManager-0.3.11.xcframework.zip",
-    :sha256 => "dda7b833c7aad176e8cb5d0205034e32c50f297a6ec16ad6bd603fc9864a94d4"
+    :sha256 => "da010ca78005207a44419a098f8960ba9cd2c053f4267d3bedadd2429eeed9fa"
   }
 
   spec.vendored_frameworks = "RiskManager.xcframework"
